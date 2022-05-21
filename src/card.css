@@ -1,0 +1,111 @@
+* {
+   
+}
+
+.container {
+    margin: 20px auto auto 40%;
+    border-radius: 15px;
+}
+.logo{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+   
+}
+
+.card {
+    height: 605px;
+    width: 450px;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+.mainContent {
+    padding: 10px 10px 20px 20px;
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height:430px;
+    box-shadow: 3px 2px 12px -5px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 3px 2px 12px -5px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px 2px 12px -5px rgba(0, 0, 0, 0.75);
+}
+
+.heading {
+    margin-top: 20px;
+    text-align: center;
+    color: hsl(223, 47%, 23%);
+    background-color: white;
+}
+
+.para {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    background-color: white;
+}
+
+.music {
+    width: 40px;
+    height: 70px;
+    object-fit: contain;
+    margin-top: 8px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.annualplanbox {
+    background-color: white;
+    border: 1px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    display: flex;
+    width: 400px;
+    height: 100px;
+    align-items: center;
+    position: absolute;
+}
+
+.musicHeading {
+    color: hsl(223, 47%, 23%);
+    margin: 25px auto auto 10px;
+    width:auto;
+    height:auto;
+}
+
+.change {
+    color: hsl(223, 47%, 23%);
+    background-color: white;
+}
+
+.price {
+    position: relative;
+    top: 63px;
+    margin-left: 60px;
+    width: auto;
+    height: 0px;
+}
+
+.btn {
+    position: relative;
+    background-color: blue;
+    margin-top: 125px;
+    color: white;
+    width: 98%;
+    height: 50px;
+    border-style: none;
+    border-radius: 15px;
+    box-shadow: 3px 2px 12px -5px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 3px 2px 12px -5px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px 2px 12px -5px rgba(0, 0, 0, 0.75);
+}
+
+.btn1{
+    color:hsl(223, 47%, 23%);
+    margin-top:10px;
+    height: 50px;
+    width: 98%;
+    border-style: none;
+    border-radius: 15px;
+    background-color: white;
+}
