@@ -20,7 +20,6 @@ const Card = () => {
                             <div className="musicHeading">
                                 <h2>Annual Plan</h2>
                             </div>
-
                             <a href="blank" className='change'>Change</a>
                         </div>
                         <div className="price">$59.99/year</div>
@@ -31,7 +30,6 @@ const Card = () => {
                     </div>
                 </div>
             </div>
-
         </>
     )
 }
